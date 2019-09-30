@@ -206,4 +206,4 @@ husky is being used to handle commit hooks. Currently, it makes sure that commit
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024)
+[![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024) [![Greenkeeper badge](https://badges.greenkeeper.io/mariancraciun1983/react-boilerplate.svg)](https://greenkeeper.io/)

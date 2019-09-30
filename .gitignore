@@ -1,0 +1,11 @@
+node_modules
+.cache
+.eslintcache
+.git
+.vscode
+dist
+yarn-error.log
+npm-debug.log
+release
+config/default.yml
+__test__/jest/coverage/

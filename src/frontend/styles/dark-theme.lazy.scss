@@ -1,0 +1,13 @@
+@import 'variables/default';
+@import 'variables/dark';
+
+@import 'lib/bootstrap/bootstrap';
+@import 'lib/fontawesome/fontawesome';
+@import 'lib/fontawesome/solid';
+
+@import 'ui';
+
+nav.navbar {
+  @extend .navbar-light;
+  @extend .bg-light;
+}

@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/pages/Index/components/Movie Renders Correctly 1`] = `
+<div
+  className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+>
+  <a
+    href="/movie/0b7b8b05-6c88-4517-a969-adf89a46bc0a/gunner-palace"
+    onClick={[Function]}
+  >
+    <img
+      alt="Movie"
+      className="img-fluid"
+      src="/assets/images/movies/1.svg"
+      width="100%"
+    />
+  </a>
+  <div
+    className="d-flex pt-3"
+  >
+    <div
+      className="flex-grow-1"
+    >
+      <a
+        href="/movie/0b7b8b05-6c88-4517-a969-adf89a46bc0a/gunner-palace"
+        onClick={[Function]}
+      >
+        <strong>
+          Gunner Palace
+        </strong>
+      </a>
+      <br />
+      <span
+        className="text-danger fw-700 mr-2"
+        style={
+          Object {
+            "textDecoration": "line-through",
+          }
+        }
+      >
+        $
+      </span>
+      <span>
+        2.39$
+      </span>
+      <br />
+    </div>
+    <div
+      className="ml-auto add-cart"
+    >
+      <button
+        className="btn btn-primary"
+        onClick={[Function]}
+        type="button"
+      >
+        <i
+          className="fas fa-cart-plus"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/common Renders the Header correctly 1`] = `
+Array [
+  <div
+    className="holder"
+  >
+    <nav
+      className="navbar navbar-expand-lg mb-3"
+    >
+      <a
+        className="navbar-brand"
+        href="/"
+        onClick={[Function]}
+      >
+        ReactJS
+      </a>
+      <button
+        className="navbar-toggler"
+        onClick={[Function]}
+        type="button"
+      >
+        <span
+          className="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        className="form-inline my-2 my-lg-0"
+      >
+        <input
+          className="form-control mr-sm-2"
+          onChange={[Function]}
+          placeholder="Search"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="navbar-collapse collapse"
+      >
+        <div
+          className="mr-auto mt-2 mt-lg-0"
+        >
+          <nav
+            className="d-flex flex-column flex-md-row float-right"
+          >
+            <button
+              className="btn mr-2 btn-outline-light"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-paint-roller"
+              />
+              Dark Version
+            </button>
+            <button
+              className="btn mr-2 btn-danger"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-globe-americas"
+              />
+              ES
+            </button>
+          </nav>
+        </div>
+        <nav
+          className="mr-5"
+        >
+          <a
+            className="btn btn-warning"
+            href="/cart"
+            onClick={[Function]}
+          >
+            <i
+              className="fas fa-shopping-cart"
+            />
+            Cart
+            
+          </a>
+        </nav>
+        <div
+          className="btn-group"
+          role="group"
+        >
+          <a
+            className="btn btn-secondary"
+            href="/auth/login"
+            onClick={[Function]}
+          >
+            Login
+          </a>
+          <a
+            className="btn btn-primary"
+            href="/auth/register"
+            onClick={[Function]}
+          >
+            Signup
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div
+      className="container-fluid"
+    />
+  </div>,
+  <footer
+    className="border-top"
+  >
+    <div
+      className="text-center p-3"
+    >
+      No Rights Reserved.
+    </div>
+  </footer>,
+]
+`;

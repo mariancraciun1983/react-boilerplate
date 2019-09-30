@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/pages/Index/components/Main Renders Correctly - Selected 1`] = `
+<ul
+  className="nav flex-column"
+>
+  <li
+    className="nav-item"
+  >
+    <div
+      className="nav-link"
+    >
+      <strong>
+        Genres
+      </strong>
+    </div>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/action"
+      onClick={[Function]}
+    >
+      Action
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link active"
+      href="/genre/adventure"
+      onClick={[Function]}
+    >
+      Adventure
+      *
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/animation"
+      onClick={[Function]}
+    >
+      Animation
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/children"
+      onClick={[Function]}
+    >
+      Children
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/comedy"
+      onClick={[Function]}
+    >
+      Comedy
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/crime"
+      onClick={[Function]}
+    >
+      Crime
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/documentary"
+      onClick={[Function]}
+    >
+      Documentary
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/drama"
+      onClick={[Function]}
+    >
+      Drama
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/fantasy"
+      onClick={[Function]}
+    >
+      Fantasy
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/horror"
+      onClick={[Function]}
+    >
+      Horror
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/imax"
+      onClick={[Function]}
+    >
+      IMAX
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/musical"
+      onClick={[Function]}
+    >
+      Musical
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/mystery"
+      onClick={[Function]}
+    >
+      Mystery
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/romance"
+      onClick={[Function]}
+    >
+      Romance
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/scifi"
+      onClick={[Function]}
+    >
+      Sci-Fi
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/thriller"
+      onClick={[Function]}
+    >
+      Thriller
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/war"
+      onClick={[Function]}
+    >
+      War
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/western"
+      onClick={[Function]}
+    >
+      Western
+      
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`components/pages/Index/components/Main Renders Correctly 1`] = `
+<ul
+  className="nav flex-column"
+>
+  <li
+    className="nav-item"
+  >
+    <div
+      className="nav-link"
+    >
+      <strong>
+        Genres
+      </strong>
+    </div>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/action"
+      onClick={[Function]}
+    >
+      Action
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/adventure"
+      onClick={[Function]}
+    >
+      Adventure
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/animation"
+      onClick={[Function]}
+    >
+      Animation
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/children"
+      onClick={[Function]}
+    >
+      Children
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/comedy"
+      onClick={[Function]}
+    >
+      Comedy
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/crime"
+      onClick={[Function]}
+    >
+      Crime
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/documentary"
+      onClick={[Function]}
+    >
+      Documentary
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/drama"
+      onClick={[Function]}
+    >
+      Drama
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/fantasy"
+      onClick={[Function]}
+    >
+      Fantasy
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/horror"
+      onClick={[Function]}
+    >
+      Horror
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/imax"
+      onClick={[Function]}
+    >
+      IMAX
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/musical"
+      onClick={[Function]}
+    >
+      Musical
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/mystery"
+      onClick={[Function]}
+    >
+      Mystery
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/romance"
+      onClick={[Function]}
+    >
+      Romance
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/scifi"
+      onClick={[Function]}
+    >
+      Sci-Fi
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/thriller"
+      onClick={[Function]}
+    >
+      Thriller
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/war"
+      onClick={[Function]}
+    >
+      War
+      
+    </a>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      href="/genre/western"
+      onClick={[Function]}
+    >
+      Western
+      
+    </a>
+  </li>
+</ul>
+`;

@@ -1,0 +1,959 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/pages/Index/Genre Renders Correctly 1`] = `
+<div
+  className="d-flex"
+>
+  <div
+    className="left-nav"
+  >
+    <ul
+      className="nav flex-column"
+    >
+      <li
+        className="nav-item"
+      >
+        <div
+          className="nav-link"
+        >
+          <strong>
+            Genres
+          </strong>
+        </div>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link active"
+          href="/genre/action"
+          onClick={[Function]}
+        >
+          Action
+          *
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/adventure"
+          onClick={[Function]}
+        >
+          Adventure
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/animation"
+          onClick={[Function]}
+        >
+          Animation
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/children"
+          onClick={[Function]}
+        >
+          Children
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/comedy"
+          onClick={[Function]}
+        >
+          Comedy
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/crime"
+          onClick={[Function]}
+        >
+          Crime
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/documentary"
+          onClick={[Function]}
+        >
+          Documentary
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/drama"
+          onClick={[Function]}
+        >
+          Drama
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/fantasy"
+          onClick={[Function]}
+        >
+          Fantasy
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/horror"
+          onClick={[Function]}
+        >
+          Horror
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/imax"
+          onClick={[Function]}
+        >
+          IMAX
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/musical"
+          onClick={[Function]}
+        >
+          Musical
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/mystery"
+          onClick={[Function]}
+        >
+          Mystery
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/romance"
+          onClick={[Function]}
+        >
+          Romance
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/scifi"
+          onClick={[Function]}
+        >
+          Sci-Fi
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/thriller"
+          onClick={[Function]}
+        >
+          Thriller
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/war"
+          onClick={[Function]}
+        >
+          War
+          
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          className="nav-link"
+          href="/genre/western"
+          onClick={[Function]}
+        >
+          Western
+          
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div
+    className="flex-grow-1"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/e00fba4e-f6d6-437c-9ad5-42b8667e4634/poseidon-adventure-the"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/1.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/e00fba4e-f6d6-437c-9ad5-42b8667e4634/poseidon-adventure-the"
+              onClick={[Function]}
+            >
+              <strong>
+                Poseidon Adventure, The
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              8.54$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/173a5d13-b294-4c26-80a8-3fbc774a1b00/better-tomorrow-iii-love-and"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/2.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/173a5d13-b294-4c26-80a8-3fbc774a1b00/better-tomorrow-iii-love-and"
+              onClick={[Function]}
+            >
+              <strong>
+                Better Tomorrow III: Love and Death in Saigon, A
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              4.07$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/2e2fb5c0-aac6-4d12-8271-b8b0fc6dc90b/9th-company"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/3.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/2e2fb5c0-aac6-4d12-8271-b8b0fc6dc90b/9th-company"
+              onClick={[Function]}
+            >
+              <strong>
+                9th Company
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              3.35$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/8e9bf7dc-1611-4303-a230-f054c5e3d986/wild-zero"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/3.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/8e9bf7dc-1611-4303-a230-f054c5e3d986/wild-zero"
+              onClick={[Function]}
+            >
+              <strong>
+                Wild Zero
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              7.46$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/79a22735-706c-486b-9da7-61ccb37ef11d/rapid-fire"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/4.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/79a22735-706c-486b-9da7-61ccb37ef11d/rapid-fire"
+              onClick={[Function]}
+            >
+              <strong>
+                Rapid Fire
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              1.63$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/b7c648f6-d224-43a8-9d47-8979c20a648c/so-undercover"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/1.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/b7c648f6-d224-43a8-9d47-8979c20a648c/so-undercover"
+              onClick={[Function]}
+            >
+              <strong>
+                So Undercover
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              8.82$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/d35cf0d8-4eba-46bd-908c-0c8fff53e1fd/thunderbirds-are-go"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/1.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/d35cf0d8-4eba-46bd-908c-0c8fff53e1fd/thunderbirds-are-go"
+              onClick={[Function]}
+            >
+              <strong>
+                Thunderbirds Are GO
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              3.76$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/42da43d8-3fd1-436c-9e8a-ac4a55f4ff48/fire-with-fire"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/2.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/42da43d8-3fd1-436c-9e8a-ac4a55f4ff48/fire-with-fire"
+              onClick={[Function]}
+            >
+              <strong>
+                Fire with Fire
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              9.95$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/604beef7-b110-4dd6-af2e-63acef910fa2/arena"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/3.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/604beef7-b110-4dd6-af2e-63acef910fa2/arena"
+              onClick={[Function]}
+            >
+              <strong>
+                Arena
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              2.82$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/ba8ddbcf-7378-44d4-8622-f0bea87e697a/fury"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/4.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/ba8ddbcf-7378-44d4-8622-f0bea87e697a/fury"
+              onClick={[Function]}
+            >
+              <strong>
+                Fury
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              9.24$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/539c4409-6ca6-417b-9ed7-76a86b71a725/american-strays"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/1.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/539c4409-6ca6-417b-9ed7-76a86b71a725/american-strays"
+              onClick={[Function]}
+            >
+              <strong>
+                American Strays
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              6.57$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col col-12 col-sm-6 col-md-4 col-xl-3 pr-3 pb-3"
+      >
+        <a
+          href="/movie/d9d20484-9a39-4e52-9039-f42265902e4a/journey-to-the-center-of-the-e"
+          onClick={[Function]}
+        >
+          <img
+            alt="Movie"
+            className="img-fluid"
+            src="/assets/images/movies/1.svg"
+            width="100%"
+          />
+        </a>
+        <div
+          className="d-flex pt-3"
+        >
+          <div
+            className="flex-grow-1"
+          >
+            <a
+              href="/movie/d9d20484-9a39-4e52-9039-f42265902e4a/journey-to-the-center-of-the-e"
+              onClick={[Function]}
+            >
+              <strong>
+                Journey to the Center of the Earth
+              </strong>
+            </a>
+            <br />
+            <span
+              className="text-danger fw-700 mr-2"
+              style={
+                Object {
+                  "textDecoration": "line-through",
+                }
+              }
+            >
+              $
+            </span>
+            <span>
+              8.36$
+            </span>
+            <br />
+          </div>
+          <div
+            className="ml-auto add-cart"
+          >
+            <button
+              className="btn btn-primary"
+              onClick={[Function]}
+              type="button"
+            >
+              <i
+                className="fas fa-cart-plus"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

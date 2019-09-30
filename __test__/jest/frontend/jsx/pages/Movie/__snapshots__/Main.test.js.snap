@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/pages/Movie/Main Renders Correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="card-header"
+  >
+    <h1>
+      Gunner Palace
+    </h1>
+  </div>
+  <div
+    className="card-body"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col col-5"
+      >
+        <img
+          alt="Movie"
+          className="img-fluid w-100"
+          src="/assets/images/movies/1.svg"
+        />
+      </div>
+      <div
+        className="col col-7"
+      >
+        <div>
+          Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+        </div>
+        <div>
+          <span>
+            <a
+              href="/genre/children"
+              onClick={[Function]}
+            >
+              Children
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/comedy"
+              onClick={[Function]}
+            >
+              Comedy
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/crime"
+              onClick={[Function]}
+            >
+              Crime
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/documentary"
+              onClick={[Function]}
+            >
+              Documentary
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/drama"
+              onClick={[Function]}
+            >
+              Drama
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/fantasy"
+              onClick={[Function]}
+            >
+              Fantasy
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/horror"
+              onClick={[Function]}
+            >
+              Horror
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/imax"
+              onClick={[Function]}
+            >
+              IMAX
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/musical"
+              onClick={[Function]}
+            >
+              Musical
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/mystery"
+              onClick={[Function]}
+            >
+              Mystery
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/romance"
+              onClick={[Function]}
+            >
+              Romance
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/scifi"
+              onClick={[Function]}
+            >
+              Sci-Fi
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/thriller"
+              onClick={[Function]}
+            >
+              Thriller
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/war"
+              onClick={[Function]}
+            >
+              War
+            </a>
+             
+          </span>
+          <span>
+            <a
+              href="/genre/western"
+              onClick={[Function]}
+            >
+              Western
+            </a>
+             
+          </span>
+        </div>
+        <div
+          className="d-flex mt-3"
+        >
+          <div
+            className="fz-30 pt-1 mr-3"
+          >
+            2.39$
+          </div>
+          <button
+            className="btn btn-lg btn-primary"
+            onClick={[Function]}
+            type="button"
+          >
+            Add to Cart
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

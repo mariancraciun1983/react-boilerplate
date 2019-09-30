@@ -1,0 +1,19 @@
+html,
+body,
+#root,
+.App {
+  height: 100%;
+}
+
+.App {
+  @extend .d-flex;
+  @extend .flex-column;
+}
+
+.holder {
+  flex: 1 0 auto;
+}
+
+footer {
+  flex-shrink: none;
+}

@@ -1,0 +1,19 @@
+language: node_js
+
+node_js:
+  - "10"
+
+cache: yarn
+
+install:
+    - yarn
+
+before_script:
+    - cp config/default.yml.example config/default.yml
+
+script:
+    - yarn run lint
+    - yarn run test
+
+after_script:
+    - yarn run coveralls

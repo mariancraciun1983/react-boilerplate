@@ -1,0 +1,14 @@
+frontend:
+  app:
+    api:
+      path: http://localhost.s-r-v.net:3000/api
+  build:
+    jsBaseDir: /
+
+backend:
+  http:
+    url: 'http://localhost.s-r-v.net:3000'
+    ip: '0.0.0.0'
+    port: '3000'
+    compression: true
+    etag: true

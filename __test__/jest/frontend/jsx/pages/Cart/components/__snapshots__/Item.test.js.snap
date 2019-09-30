@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/pages/Cart/components/Item Renders the Item 1`] = `
+<div
+  className="d-flex mb-3 pb-3 border-bottom"
+>
+  <div
+    className="mr-auto d-inline-flex"
+  >
+    <img
+      alt="Movie"
+      src="/assets/images/movies/1.svg"
+    />
+    <div
+      className="p-3"
+    >
+      <strong>
+        Gunner Palace
+      </strong>
+      <br />
+      <span>
+        Price: 2.39$
+      </span>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    Quantity:
+    <input
+      className="form-control"
+      min={1}
+      onChange={[Function]}
+      type="number"
+      value={1}
+    />
+  </div>
+  <div
+    className="pt-4 pl-4"
+  >
+    <button
+      className="btn btn-dark"
+      onClick={[Function]}
+      type="button"
+    >
+      Delete
+    </button>
+  </div>
+</div>
+`;

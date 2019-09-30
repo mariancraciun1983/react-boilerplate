@@ -13,16 +13,13 @@
     <img src="https://david-dm.org/mariancraciun1983/react-boilerplate/status.svg" alt="Dependencies Status" />
   </a>
   <a href="https://david-dm.org/mariancraciun1983/react-boilerplate">
-    <img src="https://david-dm.org/mariancraciun1983/react-boilerplate/status.svg"  alt="Dependencies Status" />
-  </a>
-  <a href="https://david-dm.org/mariancraciun1983/react-boilerplate">
     <img src="https://david-dm.org/mariancraciun1983/react-boilerplate/dev-status.svg"  alt="devDependencies Status" />
   </a>
    <a href="https://www.codefactor.io/repository/github/mariancraciun1983/react-boilerplate">
     <img src="https://www.codefactor.io/repository/github/mariancraciun1983/react-boilerplate/badge" alt="code quality">
   </a>
-  <a href="https://deepscan.io/dashboard#view=project&tid=5557&pid=7400&bid=74077">
-    <img src="https://deepscan.io/api/teams/5557/projects/7400/branches/74077/badge/grade.svg" alt="DeepScan grade">
+  <a href="https://deepscan.io/dashboard#view=project&tid=5557&pid=7405&bid=74166">
+    <img src="https://deepscan.io/api/teams/5557/projects/7405/branches/74166/badge/grade.svg" alt="DeepScan grade">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />

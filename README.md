@@ -70,7 +70,7 @@ The developed application offers the user the following:
 The most important paths are:
 
 - \_\_mock\_\_ - data used by APIs and testing code, as there are no db connection
-- \_\_mock\_\_ - unit and integration tests
+- \_\_test\_\_ - unit and integration tests
 - src
   - assets - static files like images/fonts
   - backend - express.js and webpack code

@@ -21,15 +21,22 @@
   <a href="https://deepscan.io/dashboard#view=project&tid=5557&pid=7405&bid=74166">
     <img src="https://deepscan.io/api/teams/5557/projects/7405/branches/74166/badge/grade.svg" alt="DeepScan grade">
   </a>
+  <a href="https://greenkeeper.io/">
+    <img src="https://badges.greenkeeper.io/mariancraciun1983/react-boilerplate.svg" alt="Greenkeeper badge" />
+  </a>
+  <a href="https://bettercodehub.com/">
+    <img src="https://bettercodehub.com/edge/badge/mariancraciun1983/npm-boilerplate?branch=master" alt="BCH compliance" />
+  </a>
+  <a href="https://codebeat.co/badges/8470180c-1287-4ebd-97a6-0f4bc0f53f01">
+    <img src="https://codebeat.co/projects/github-com-mariancraciun1983-react-boilerplate-master" alt="codebeat badge" />
+  </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
   </a>
 </div>
 
 <br />
-
-
-
+[![codebeat badge]()]()
 
 ## About the boilerplate
 
@@ -206,4 +213,4 @@ husky is being used to handle commit hooks. Currently, it makes sure that commit
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024) [![Greenkeeper badge](https://badges.greenkeeper.io/mariancraciun1983/react-boilerplate.svg)](https://greenkeeper.io/)
+[![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024) 

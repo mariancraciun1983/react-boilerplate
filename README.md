@@ -27,8 +27,8 @@
   <a href="https://bettercodehub.com/">
     <img src="https://bettercodehub.com/edge/badge/mariancraciun1983/npm-boilerplate?branch=master" alt="BCH compliance" />
   </a>
-  <a href="https://codebeat.co/badges/8470180c-1287-4ebd-97a6-0f4bc0f53f01">
-    <img src="https://codebeat.co/projects/github-com-mariancraciun1983-react-boilerplate-master" alt="codebeat badge" />
+  <a href="https://codebeat.co/projects/github-com-mariancraciun1983-react-boilerplate-master">
+    <img src="https://codebeat.co/badges/8470180c-1287-4ebd-97a6-0f4bc0f53f01" alt="codebeat badge" />
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />

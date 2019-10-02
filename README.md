@@ -36,11 +36,12 @@
 </div>
 
 <br />
-[![codebeat badge]()]()
 
 ## About the boilerplate
 
 This code can be used as a starting point for a new ReactJS based project. It contains a working example of a very basic movie rental shop. The code was developed in node v10.16.3.
+During development, you will have an express.js app that provides and API (/api) endpoint. In production, you could use the same API (in prod mode) or the one at [Serverless boilerplate](https://github.com/mariancraciun1983/serverless-boilerplate).
+Check out the [React Boilerplate CI/CD](https://github.com/mariancraciun1983/react-boilerplate-cd) for an automated CI/CD configuration of this project.
 
 ## Getting started
 
@@ -213,4 +214,6 @@ husky is being used to handle commit hooks. Currently, it makes sure that commit
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024) 
+[![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024)
+
+

@@ -215,3 +215,7 @@ husky is being used to handle commit hooks. Currently, it makes sure that commit
 ## Demo
 
 [![asciicast](https://asciinema.org/a/271024.svg)](https://asciinema.org/a/271024)
+
+
+## License
+Check out [bootstrap](src/frontend/styles/lib/bootstrap/LICENSE) and  [fontawesome](src/frontend/styles/lib/fontawesome/LICENSE) license.

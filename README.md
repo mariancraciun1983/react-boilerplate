@@ -6,6 +6,7 @@
   <a href="https://travis-ci.org/mariancraciun1983/react-boilerplate">
     <img src="https://secure.travis-ci.org/mariancraciun1983/react-boilerplate.svg?branch=master" alt="Travis CI" />
   </a>
+   
   <a href="https://coveralls.io/r/mariancraciun1983/react-boilerplate">
     <img src="https://img.shields.io/coveralls/mariancraciun1983/react-boilerplate?branch=master&style=flat" alt="Coverage Status" />
   </a>
@@ -35,6 +36,12 @@
   </a>
 </div>
 
+
+<br />
+<strong><a href="https://admiring-jennings-8bf1ff.netlify.com/">Live Demo Site (Netlify)</a></strong> 
+<a href="https://app.netlify.com/sites/admiring-jennings-8bf1ff/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/9b21f420-af82-4246-88c5-0d45c721497f/deploy-status" alt="Netlify Status" />
+  </a>
 <br />
 
 ## About the boilerplate

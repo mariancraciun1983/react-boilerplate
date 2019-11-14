@@ -39,6 +39,7 @@
 
 <br />
 <strong><a href="https://admiring-jennings-8bf1ff.netlify.com/">Live Demo Site (Netlify)</a></strong> 
+<br />
 <a href="https://app.netlify.com/sites/admiring-jennings-8bf1ff/deploys">
     <img src="https://api.netlify.com/api/v1/badges/9b21f420-af82-4246-88c5-0d45c721497f/deploy-status" alt="Netlify Status" />
   </a>

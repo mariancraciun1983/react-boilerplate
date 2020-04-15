@@ -104,7 +104,7 @@
     "redux-saga-test-plan": "^4.0.0-rc.1",
     "sass-lint": "^1.13.1",
     "sass-loader": "^8.0.0",
-    "style-loader": "^1.0.0",
+    "style-loader": "^1.1.4",
     "webpack": "^4.40.2",
     "webpack-bundle-analyzer": "^3.5.1",
     "webpack-cli": "^3.3.9",
